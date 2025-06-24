@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+*.env
+
+# Virtual environments
+.venv/
+env/
+
+# Telethon session
+scraping_session.session
+scraping_session.session-journal
+
+# Jupyter/IPython
+.ipynb_checkpoints/
+
+# Data + Media
+photos/
+data/raw/
+data/processed/
+
+# OS metadata
+.DS_Store
+Thumbs.db
