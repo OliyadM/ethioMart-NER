@@ -22,6 +22,10 @@ photos/
 data/raw/
 data/processed/
 
+# Allow labeled NER data
+!data/labeled/
+!data/labeled/ner_labels.conll
+
 # OS metadata
 .DS_Store
 Thumbs.db
